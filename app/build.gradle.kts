@@ -10,11 +10,11 @@ plugins {
 }
 
 android {
-    namespace = "com.shaadidukaan.instagramclone"
+    namespace = "com.sm.instagramclone"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.shaadidukaan.instagramclone"
+        applicationId = "com.sm.instagramclone"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
